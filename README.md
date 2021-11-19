@@ -1,6 +1,7 @@
 
 ### Zahid Tekbas
-![Zahid Tekbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidtekbas&count_private=true&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidtekbas&layout=compact&count_private=true)
+![Zahid Tekbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidtekbas&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidtekbas&layout=compact&count_private=true)
 
 <!-- - 🔭 Full-time **Flutter** developer. -->
 <!-- - 📋 Love computer and guitar. -->
