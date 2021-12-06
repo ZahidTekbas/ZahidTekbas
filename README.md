@@ -7,7 +7,7 @@
 <!-- - 📋 Love computer and guitar. -->
 <!-- - 🏠 Mostly code in Dart. -->
 - ✍️ [blog TR](https://zahidtekbas.com.tr)
-- - ✍️ [blog EN](https://zahidtekbas.com)
+- ✍️ [blog EN](https://zahidtekbas.com)
 
 <!--
 **ZahidTekbas/ZahidTekbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
