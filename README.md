@@ -1,25 +1,18 @@
+<div align="center">
+   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+</div>
 
-### Zahid Tekbas
-![Zahid Tekbas's GitHub stats](https://github-readme-stats.vercel.app/api?username=zahidtekbas&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahidtekbas&layout=compact&count_private=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eneskaracomak&count_private=true&show_icons=true&hide_title=true&hide=stars&theme=dark" />
 
-<!-- - 🔭 Full-time **Flutter** developer. -->
-<!-- - 📋 Love computer and guitar. -->
-<!-- - 🏠 Mostly code in Dart. -->
-- ✍️ [blog TR](https://zahidtekbas.com.tr)
-- ✍️ [blog EN](https://zahidtekbas.com)
+- 👀 Open source contributor
+- 👾 Flutter Developer
+- 🤝 Always open for cooperation
 
-<!--
-**ZahidTekbas/ZahidTekbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=eneskaracomak&theme=flat&no-frame=true&margin-w=30" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
